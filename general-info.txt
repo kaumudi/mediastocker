@@ -1,0 +1,9 @@
+Five stocks: 
+  Apple: APPL
+  Salesforce: CRM
+  Tesla: TSLA
+  Netflix: NFLX
+  S&P 500
+  
+Time Scale: 
+  Aug.1st 2018 ---- Sept.1st 2018
