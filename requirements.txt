@@ -1,6 +1,5 @@
 beautifulsoup4==4.6.0
 tweepy == 3.6.0
-got3
 pandas == 0.23.0
 numpy == 1.14.3
 matplotlib == 2.2.2
